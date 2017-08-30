@@ -1,31 +1,18 @@
 {
-  "posts": [
+  "markers": [
     {
       "id": 1,
-      "title": "Post 1"
+      "planId": "aaaaa",
+      "title": "Point 1",
+      "lat": "45.74465",
+      "lng": "15.92203"
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "planId": "aaaaa",
+      "title": "Point 2",
+      "lat": "45.74459",
+      "lng": "15.92152"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
